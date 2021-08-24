@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/NithinKumar9)**
 
-- 📫 You can contact me through (nithinbyadav999@gmail.com) **[My Mail]()**
+- 📫 You can contact me through nithinbyadav999@gmail.com
 
 
 ## 🚀 Languages and Tools:
