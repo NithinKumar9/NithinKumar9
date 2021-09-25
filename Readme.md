@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a **Student**
 
-- 🌱 I’m currently learning **Blender**
+- 🌱 I’m currently learning **Blender 2.93**
 
 - ✨ Intrested in **Logo Design, UI Design** 
 
