@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a **Student**
 
-- 🌱 I’m currently learning **Some interesting things**
+- 🌱 I’m currently learning **Blender**
 
 - ✨ Intrested in **Logo Design, UI Design** 
 
