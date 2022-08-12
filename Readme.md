@@ -3,7 +3,7 @@
 
 ## 👨🏽‍💻 About Me
 
-- 🌱 I’m currently learning **Blender 3.2.2, Big Data Analytics ect.,**
+- 🌱 I’m currently learning **Blender 3.2.2, Big Data Analytics, ect.,**
 
 - ✨ Intrested in **Logo Design, UI Design, 3D modeling** 
 
