@@ -53,11 +53,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nithin-kumar-b-5a35101a4//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Nithin99yadav"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/nithin_infinity/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://support.discord.com/hc/en-us/profiles/1516727418341"><img src="https://img.icons8.com/ios/48/4a90e2/discord-logo--v1.png"/></a>
-<a href = "https://www.hackerrank.com/nithinbyadav999"></a>
-
 
 </p>
 
