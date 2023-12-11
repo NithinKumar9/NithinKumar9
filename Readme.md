@@ -3,9 +3,7 @@
 
 ## 👨🏽‍💻 About Me
 
-- 🌱 I’m currently learning **Blender 3.2.2, Big Data Analytics, ect.,**
-
-- ✨ Intrested in **Logo Design, UI Design, 3D modeling** 
+- ✨ Interested in **Logo Design, UI Design, 3D modeling, Data Analysis** 
 
 - 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/NithinKumar9)**
 
@@ -15,7 +13,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href="http://www.cplusplus.org/" targate="_bla"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
