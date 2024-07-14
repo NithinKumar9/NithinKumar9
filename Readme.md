@@ -3,7 +3,7 @@
 
 ## 👨🏽‍💻 About Me
 
-- ✨ Interested in **Logo Design, UI Design, 3D modeling, Data Analysis** 
+- ✨ Interested in ** Coding, UI Design, 3D modelling, Logo Design** 
 
 - 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/NithinKumar9)**
 
