@@ -3,7 +3,7 @@
 
 ## 👨🏽‍💻 About Me
 
-- ✨ Interested in ** Coding, UI Design, 3D modelling, Logo Design** 
+- ✨ Interested in **Coding, UI Design, 3D modelling, Logo Design** 
 
 - 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/NithinKumar9)**
 
@@ -28,14 +28,7 @@
 </p>
 
 
-## 📊 My Github Stats
-  <p align="center">
-    <a href="https://github.com/NithinKumar9/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nithin Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NithinKumar9&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-  
+ 
   <a href="https://github.com/NithinKumar9/github-readme-stats"><img alt="Nithin Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NithinKumar9&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/NithinKumar9/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinKumar9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -57,3 +50,4 @@
     <img src="https://komarev.com/ghpvc/?username=NithinKumar9">
 </a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
