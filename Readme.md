@@ -18,8 +18,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/docs/getting-started.html" target="_blank">  <img src="https://img.icons8.com/plasticine/48/null/react.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/ios-filled/48/4a90e2/php-logo.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.figma.com//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
     <a href= "https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/jupyter.png"/></a>  
@@ -50,4 +48,5 @@
     <img src="https://komarev.com/ghpvc/?username=NithinKumar9">
 </a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
