@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Nithin Kumar</h1>
-<h3 align="center"><b>A passionate software developer from India ❤</h3></b>
+<h3 align="center"><b>A passionate software developer from Bengaluru, India ❤</h3></b>
 
 ## 👨🏽‍💻 About Me
 
@@ -48,6 +48,7 @@
     <img src="https://komarev.com/ghpvc/?username=NithinKumar9">
 </a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
