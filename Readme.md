@@ -5,7 +5,7 @@
 
 - ✨ Interested in **Coding, UI Design, 3D modelling, Logo Design** 
 
-- 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/NithinKumar9)**
+- 👨‍💻 All of my projects are available here at **[My Github Account](https://github.com/NithinKumar9)**
 
 - 📫 You can contact me through nithinbyadav999@gmail.com
 
@@ -48,5 +48,6 @@
     <img src="https://komarev.com/ghpvc/?username=NithinKumar9">
 </a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
