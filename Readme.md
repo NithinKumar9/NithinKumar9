@@ -21,7 +21,7 @@
 
 
 
-💻 Programming Languages
+### 💻 Programming Languages
 
 
 <p align="left"> <img src="https://img.icons8.com/color/48/python.png" title="Python"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> <img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/> <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/> <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/> <a href="https://reactjs.org/docs/getting-started.html" target="_blank">  <img src="https://img.icons8.com/plasticine/48/null/react.png"/></a></p>
@@ -52,6 +52,7 @@
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NithinKumar9"></a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
