@@ -1,5 +1,9 @@
 <h1 align="center">Hi there👋, I'm Nithin Kumar</h1>
 <h3 align="center"><b>A passionate software developer from Namma Bengaluru, India ❤</h3></b>
+    
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 ## 👨🏽‍💻 About Me
 
@@ -42,6 +46,7 @@
     <img src="https://komarev.com/ghpvc/?username=NithinKumar9">
 </a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
