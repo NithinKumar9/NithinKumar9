@@ -44,13 +44,15 @@
 
 <a href = "https://www.linkedin.com/in/nithinkumar99" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/nithin_infinity/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/Nithin_Kumar_9" target="_blank"><img width="50" height="50" src="https://img.icons8.com/ios/48/twitterx--v1.png" alt="twitterx--v1"/></a>
+<a href = "https://twitter.com/Nithin_Kumar_9" target="_blank"><img width="50" height="50" src="https://img.icons8.com/ios/48/FFFFFF/twitterx--v1.png" alt="twitterx--v1"/></a>
+
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NithinKumar9"></a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
