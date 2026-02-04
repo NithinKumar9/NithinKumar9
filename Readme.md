@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available here at **[My Github Account](https://github.com/NithinKumar9)**
 
-- 📫 You can contact me through nithinbyadav999@gmail.com
+- 📫 You can contact me through [Gmail](nithinbyadav999@gmail.com)
 
 
 ## 🚀 Languages and Tools:
@@ -40,6 +40,7 @@
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NithinKumar9"></a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
