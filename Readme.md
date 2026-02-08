@@ -6,9 +6,9 @@
     
 ## 👨🏽‍💻 About Me
 
-- ✨ Interested in **Coding, UI Design, 3D modelling, Logo Design** 
+- ✨ Interested in **Coding, UI Design, 3D modelling, Logo Design.** 
 
-- 🔭 I’m currently working on my **Portfolio** ***(Coming Soon)***
+- 🌐 Check out my **[Portfolio](https://nithininfinity.netlify.app/)** you gonna love it.
 
 - 👨‍💻 All of my projects are available here at **[My Github Account](https://github.com/NithinKumar9)**
 
@@ -52,6 +52,7 @@
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NithinKumar9"></a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
