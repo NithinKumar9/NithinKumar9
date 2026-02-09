@@ -14,7 +14,7 @@
 
 - 📫 How to reach me nithinbyadav999@gmail.com
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1hnTXBbIFiSIMvUeU1LCgtlE4eIq8rYmJ/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1kHxrYVOgAXc-5mb0Mlgb17GXRr54aBkQ/view?usp=sharing)**
 
 
 ## 🚀 Technical Skills:
@@ -52,6 +52,7 @@
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NithinKumar9"></a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
