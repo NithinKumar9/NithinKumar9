@@ -47,11 +47,23 @@
 <a href = "https://twitter.com/Nithin_Kumar_9" target="_blank"><img width="50" height="50" src="https://img.icons8.com/ios/48/FFFFFF/twitterx--v1.png" alt="twitterx--v1"/></a>
 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NithinKumar9/NithinKumar9/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NithinKumar9/NithinKumar9/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NithinKumar9/NithinKumar9/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+
+
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NithinKumar9"></a>
 <a href="https://github.com/NithinKumar9?tab=followers"><img src="https://img.shields.io/github/followers/NithinKumar9?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
