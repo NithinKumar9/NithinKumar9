@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there👋, I'm Nithin Kumar</h1>
-<h3 align="center"><b>A passionate software developer from Namma Bengaluru, India ❤</h3></b>
+<h3 align="center"><b>A passionate software developer from Bengaluru, India ❤</h3></b>
     
 ## 👨🏽‍💻 About Me
 
