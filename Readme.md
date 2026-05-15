@@ -8,13 +8,11 @@
 
 - ✨ Interested in **Coding, UI Design, 3D modelling, Logo Design.** 
 
-- 🌐 Check out my **[Portfolio](https://nithininfinity.netlify.app/)** you gonna love it.
+- 🌐 Check out my **[Portfolio](https://nithininfinity.netlify.app/)**.
 
 - 👨‍💻 All of my projects are available here at **[My Github Account](https://github.com/NithinKumar9)**
 
 - 📫 How to reach me nithinbyadav999@gmail.com
-
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/18DCBHxKIGkL67lPAHwW6EgPJQ6E-AOFk/view?usp=drive_link)**
 
 
 ## 🚀 Technical Skills:
